@@ -4,4 +4,4 @@ A simple android logo
 
 Technologies Used - HTML5, CSS3
 
-Live - https://keyur22.github.io/Android-Logo/
+Live - https://keyur22.github.io/animated-android-logo/
